@@ -1,0 +1,66 @@
+[
+    {
+    "productName": "Nike airJordan-199",
+    "brand":"nike",
+    "desc":"good shoes",
+    "price":5000,
+    "discount":"5%",
+    "availabelStock":150,
+    "gender":["male"],
+    "color":["white","black","gray"],
+    "category":["snekers"],
+    "size":["43","44","45"]
+   },
+
+   {
+    "productName": "Casual",
+    "brand": "PUMA",
+    "desc": "dream Casual",
+    "price": 4500,
+    "discount": "10%",
+    "availabelStock": 120,
+    "gender": ["male"],
+    "color": ["red","black","white"],
+    "category": ["sneakers"],
+    "size": ["43","44","45"]
+    },
+
+    {
+    "productName": "Sneakers",
+    "brand": "PUMA",
+    "desc": "dream Sneakers",
+    "price": 5000,
+    "discount": "10%",
+    "availabelStock": 120,
+    "gender": ["male"],
+    "color": ["red","black","white"],
+    "category": ["sneakers"],
+    "size": ["43","44","45"]
+    },
+
+    {
+    "productName": "formal Shoe",
+    "brand": "nike",
+    "desc": "Great runnig shoe",
+    "price": 4500,
+    "discount": "7%",
+    "availabelStock": 50,
+    "gender": ["male"],
+    "color": ["red","black","white","blue"],
+    "category": ["Sport"],
+    "size": ["42","43","45"]
+    },
+    {
+    "productName": "Sporth Shoe",
+    "brand": "nike",
+    "desc": "Great runnig shoe",
+    "price": 4500,
+    "discount": "7%",
+    "availabelStock": 50,
+    "gender": ["male"],
+    "color": ["red","black","white","blue"],
+    "category": ["Sport"],
+    "size": ["42","43","45"]
+    }
+
+]
